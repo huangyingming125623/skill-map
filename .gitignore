@@ -4,3 +4,6 @@ node_modules
 *log
 *logs
 .publish
+__pycache__/
+*.py[cod]
+.pytest_cache/
